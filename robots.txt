@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://marvhus.github.io/my-blogg/sitemap.xml
