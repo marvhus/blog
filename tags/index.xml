@@ -9,7 +9,25 @@
       <link>https://marvhus.github.io/my-blogg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 12 Aug 2022 23:56:00 +0200</lastBuildDate><atom:link href="https://marvhus.github.io/my-blogg/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://marvhus.github.io/my-blogg/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hugo</title>
+      <link>https://marvhus.github.io/my-blogg/tags/hugo/</link>
+      <pubDate>Sat, 29 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://marvhus.github.io/my-blogg/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>org</title>
+      <link>https://marvhus.github.io/my-blogg/tags/org/</link>
+      <pubDate>Sat, 29 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://marvhus.github.io/my-blogg/tags/org/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>content</title>
       <link>https://marvhus.github.io/my-blogg/tags/content/</link>

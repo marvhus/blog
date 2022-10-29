@@ -4,6 +4,33 @@
   <url>
     <loc>https://marvhus.github.io/my-blogg/archives/</loc>
   </url><url>
+    <loc>https://marvhus.github.io/my-blogg/posts/hello-org/</loc>
+    <lastmod>2022-10-29T14:27:21+02:00</lastmod>
+  </url><url>
+    <loc>https://marvhus.github.io/my-blogg/posts/writing-hugo-blog-in-org/</loc>
+    <lastmod>2022-10-29T14:26:26+02:00</lastmod>
+  </url><url>
+    <loc>https://marvhus.github.io/my-blogg/categories/</loc>
+    <lastmod>2022-10-29T14:27:21+02:00</lastmod>
+  </url><url>
+    <loc>https://marvhus.github.io/my-blogg/categories/emacs/</loc>
+    <lastmod>2022-10-29T14:27:21+02:00</lastmod>
+  </url><url>
+    <loc>https://marvhus.github.io/my-blogg/tags/hugo/</loc>
+    <lastmod>2022-10-29T14:27:21+02:00</lastmod>
+  </url><url>
+    <loc>https://marvhus.github.io/my-blogg/</loc>
+    <lastmod>2022-10-29T14:27:21+02:00</lastmod>
+  </url><url>
+    <loc>https://marvhus.github.io/my-blogg/tags/org/</loc>
+    <lastmod>2022-10-29T14:27:21+02:00</lastmod>
+  </url><url>
+    <loc>https://marvhus.github.io/my-blogg/posts/</loc>
+    <lastmod>2022-10-29T14:27:21+02:00</lastmod>
+  </url><url>
+    <loc>https://marvhus.github.io/my-blogg/tags/</loc>
+    <lastmod>2022-10-29T14:27:21+02:00</lastmod>
+  </url><url>
     <loc>https://marvhus.github.io/my-blogg/posts/another-post/</loc>
     <lastmod>2022-08-12T23:56:00+02:00</lastmod>
   </url><url>
@@ -19,16 +46,7 @@
     <loc>https://marvhus.github.io/my-blogg/tags/marvhus/</loc>
     <lastmod>2022-08-12T23:56:00+02:00</lastmod>
   </url><url>
-    <loc>https://marvhus.github.io/my-blogg/</loc>
-    <lastmod>2022-08-12T23:56:00+02:00</lastmod>
-  </url><url>
     <loc>https://marvhus.github.io/my-blogg/tags/post/</loc>
-    <lastmod>2022-08-12T23:56:00+02:00</lastmod>
-  </url><url>
-    <loc>https://marvhus.github.io/my-blogg/posts/</loc>
-    <lastmod>2022-08-12T23:56:00+02:00</lastmod>
-  </url><url>
-    <loc>https://marvhus.github.io/my-blogg/tags/</loc>
     <lastmod>2022-08-12T23:56:00+02:00</lastmod>
   </url><url>
     <loc>https://marvhus.github.io/my-blogg/tags/test/</loc>
@@ -36,7 +54,5 @@
   </url><url>
     <loc>https://marvhus.github.io/my-blogg/posts/first-post/</loc>
     <lastmod>2022-08-12T23:45:00+02:00</lastmod>
-  </url><url>
-    <loc>https://marvhus.github.io/my-blogg/categories/</loc>
   </url>
 </urlset>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on My Blog!</title>
-    <link>https://marvhus.github.io/my-blogg/posts/</link>
-    <description>Recent content in Posts on My Blog!</description>
+    <title>emacs on My Blog!</title>
+    <link>https://marvhus.github.io/my-blogg/categories/emacs/</link>
+    <description>Recent content in emacs on My Blog!</description>
     <image>
       <url>https://marvhus.github.io/my-blogg</url>
       <link>https://marvhus.github.io/my-blogg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 29 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://marvhus.github.io/my-blogg/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://marvhus.github.io/my-blogg/categories/emacs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello Org</title>
       <link>https://marvhus.github.io/my-blogg/posts/hello-org/</link>
@@ -28,24 +28,6 @@ installing ox-hugo Installing the plugin wasn&amp;rsquo;t as easy as I first tho
       
       <guid>https://marvhus.github.io/my-blogg/posts/writing-hugo-blog-in-org/</guid>
       <description>First heading withing the post This post will be exported as content/posts/writing-hugo-blog-in-org-file-export.md. Its title will be &amp;ldquo;Writing Hugo blog in Org&amp;rdquo;. It will have hugo and org tags and emacs as category. The lastmod property in the front_matter is set automatically to the time of export. The menu item identified is auto-set. The menu item weight and post weight if needed to have to be menually specified as shown above. A sub heading under that heading It&amp;rsquo;s draft state will be marked as true brcause of #+hugo_draft: true With the point anywhere, do M-x RET ox-hugo RET to export this whole fole titles Writing Hugo blog in Org to a Hugo post.</description>
-    </item>
-    
-    <item>
-      <title>Another post</title>
-      <link>https://marvhus.github.io/my-blogg/posts/another-post/</link>
-      <pubDate>Fri, 12 Aug 2022 23:56:00 +0200</pubDate>
-      
-      <guid>https://marvhus.github.io/my-blogg/posts/another-post/</guid>
-      <description>Another post</description>
-    </item>
-    
-    <item>
-      <title>My 1st post</title>
-      <link>https://marvhus.github.io/my-blogg/posts/first-post/</link>
-      <pubDate>Fri, 12 Aug 2022 23:45:00 +0200</pubDate>
-      
-      <guid>https://marvhus.github.io/my-blogg/posts/first-post/</guid>
-      <description>MY FIRST POST</description>
     </item>
     
   </channel>
