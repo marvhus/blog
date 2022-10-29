@@ -1,0 +1,37 @@
+#+HUGO_BASE_DIR: ../
+#+HUGO_SECTION: ./
+
+#+HUGO_WEIGHT: 2001
+#+HUGO_AUTO_SET_LASTMOD: t
+
+#+TITLE: Writing Hugo blog in Org
+
+#+DATE: 2022-10-29
+#+HUGO_TAGS: hugo org
+#+HUGO_CATEGORIES: emacs
+#+HUGO_MENU: :menu "main" :witght 2001
+#+HUGO_CUSTOM_FRONT_MATTER: :foo ar :baz zoo :alpha 1 :beta "two words" :gamma 10
+
+#+HUFO_DRAFT: true
+
+* First heading withing the post
+  - This post will be exported as
+	=content/posts/writing-hugo-blog-in-org-file-export.md=.
+  - Its title will be "Writing Hugo blog in Org".
+  - It will have /hugo/ and /org/ tags and /emacs/ as category.
+  - The /lastmod/ property in the front_matter is set automatically to the time of export.
+  - The menu item /identified/ is auto-set.
+  - The menu item /weight/ and post /weight/ if needed to have to be menually specified as shown above.
+** A sub heading under that heading
+  - It's draft state will be marked as =true= brcause of =#+hugo_draft: true=
+
+With the point _anywhere_, do =M-x RET ox-hugo RET= to export this whole fole titles /Writing Hugo blog in Org/ to a Hugo post.
+
+The exported Markdown has a little comment footer set in the /Local Variables/ section bellow.
+
+* Footnotes
+Test 123
+* COMMENT Local Variables
+# Local Variables:
+# org-hugo-footer: "\n\n[//]: # \"Exported with love from a port written in Org mode\"\n[//]: # \"- https://github.com/kaushalmodi/ox-hugo\""
+# End:

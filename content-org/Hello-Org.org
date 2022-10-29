@@ -1,0 +1,47 @@
+#+HUGO_BASE_DIR: ../
+#+HUGO_SECTION: ./
+
+#+HUGO_WEIGHT: 2001
+#+HUGO_AUTO_SET_LASTMOD: t
+
+#+TITLE: Hello Org 
+
+#+DATE: 2022-10-29
+#+HUGO_TAGS: hugo org
+#+HUGO_CATEGORIES: emacs
+#+HUGO_MENU: :menu "main" :weight 2001
+#+HUGO_CUSTOM_FRONT_MATTER: :foo ar :baz zoo :alpha 1 :beta "two words" :gamma 10
+
+#+HUFO_DRAFT: false
+
+* This was written using org mode
+Yes you read that correctly, this post was written in orgmode, and generated for use with hugo using ox-hugo.
+
+* [[https://github.com/kaushalmodi/][ox-hugo]]
+it's a plugin for emacs, that exports org files to markdown files usable with hugo.
+So with the use of this emacs plugin, I might start writing posts here, so keep an eye out for that.
+
+* installing ox-hugo
+Installing the plugin wasn't as easy as I first thought it would be.
+Part of that might be because I use my own custom emacs config, instead of using a pre-existing one like Doom emacs, and Spacemacs.
+Though I managed to get it working with some manual instalation.
+
+* use-package
+Funnily enough, it wasn't ox-hugo that was causing the issues.
+It was the package they used in the install guide that caused the issues.
+
+For some reason, the package =use-package= wouldn't propperly install.
+So I had to manually clone the repo to my emacs config, then =git checkout= the latest version.
+And from there it was smooth sailing.
+
+* using ox-hugo
+Luckily using the package wasn't as complicated as the installation.
+I just write an org file (that you can see on [[https://github.com/marvhus/my-blogg][The GitHub Repo]]),
+and then I just press =C-c C-e H h=, and it makes the markdown file for me.
+
+
+* Footnotes
+* COMMENT Local Variables
+# Local Variables:
+# org-hugo-footer: "\n\n[//]: # \"Exported with love from a port written in Org mode\"\n[//]: # \"- https://github.com/kaushalmodi/ox-hugo\""
+# End:
