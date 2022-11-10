@@ -2,57 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://blog.marvhus.xyz/archives/</loc>
+    <loc>https://marvhus.xyz/blog/archives/</loc>
   </url><url>
-    <loc>http://blog.marvhus.xyz/posts/hello-org/</loc>
+    <loc>https://marvhus.xyz/blog/posts/hello-org/</loc>
     <lastmod>2022-10-29T14:27:21+02:00</lastmod>
   </url><url>
-    <loc>http://blog.marvhus.xyz/posts/writing-hugo-blog-in-org/</loc>
+    <loc>https://marvhus.xyz/blog/posts/writing-hugo-blog-in-org/</loc>
     <lastmod>2022-10-29T14:26:26+02:00</lastmod>
   </url><url>
-    <loc>http://blog.marvhus.xyz/categories/</loc>
+    <loc>https://marvhus.xyz/blog/categories/</loc>
     <lastmod>2022-10-29T14:27:21+02:00</lastmod>
   </url><url>
-    <loc>http://blog.marvhus.xyz/categories/emacs/</loc>
+    <loc>https://marvhus.xyz/blog/categories/emacs/</loc>
     <lastmod>2022-10-29T14:27:21+02:00</lastmod>
   </url><url>
-    <loc>http://blog.marvhus.xyz/tags/hugo/</loc>
+    <loc>https://marvhus.xyz/blog/tags/hugo/</loc>
     <lastmod>2022-10-29T14:27:21+02:00</lastmod>
   </url><url>
-    <loc>http://blog.marvhus.xyz/</loc>
+    <loc>https://marvhus.xyz/blog/</loc>
     <lastmod>2022-10-29T14:27:21+02:00</lastmod>
   </url><url>
-    <loc>http://blog.marvhus.xyz/tags/org/</loc>
+    <loc>https://marvhus.xyz/blog/tags/org/</loc>
     <lastmod>2022-10-29T14:27:21+02:00</lastmod>
   </url><url>
-    <loc>http://blog.marvhus.xyz/posts/</loc>
+    <loc>https://marvhus.xyz/blog/posts/</loc>
     <lastmod>2022-10-29T14:27:21+02:00</lastmod>
   </url><url>
-    <loc>http://blog.marvhus.xyz/tags/</loc>
+    <loc>https://marvhus.xyz/blog/tags/</loc>
     <lastmod>2022-10-29T14:27:21+02:00</lastmod>
   </url><url>
-    <loc>http://blog.marvhus.xyz/posts/another-post/</loc>
+    <loc>https://marvhus.xyz/blog/posts/another-post/</loc>
     <lastmod>2022-08-12T23:56:00+02:00</lastmod>
   </url><url>
-    <loc>http://blog.marvhus.xyz/tags/content/</loc>
+    <loc>https://marvhus.xyz/blog/tags/content/</loc>
     <lastmod>2022-08-12T23:56:00+02:00</lastmod>
   </url><url>
-    <loc>http://blog.marvhus.xyz/tags/en/</loc>
+    <loc>https://marvhus.xyz/blog/tags/en/</loc>
     <lastmod>2022-08-12T23:56:00+02:00</lastmod>
   </url><url>
-    <loc>http://blog.marvhus.xyz/tags/first/</loc>
+    <loc>https://marvhus.xyz/blog/tags/first/</loc>
     <lastmod>2022-08-12T23:56:00+02:00</lastmod>
   </url><url>
-    <loc>http://blog.marvhus.xyz/tags/marvhus/</loc>
+    <loc>https://marvhus.xyz/blog/tags/marvhus/</loc>
     <lastmod>2022-08-12T23:56:00+02:00</lastmod>
   </url><url>
-    <loc>http://blog.marvhus.xyz/tags/post/</loc>
+    <loc>https://marvhus.xyz/blog/tags/post/</loc>
     <lastmod>2022-08-12T23:56:00+02:00</lastmod>
   </url><url>
-    <loc>http://blog.marvhus.xyz/tags/test/</loc>
+    <loc>https://marvhus.xyz/blog/tags/test/</loc>
     <lastmod>2022-08-12T23:56:00+02:00</lastmod>
   </url><url>
-    <loc>http://blog.marvhus.xyz/posts/first-post/</loc>
+    <loc>https://marvhus.xyz/blog/posts/first-post/</loc>
     <lastmod>2022-08-12T23:45:00+02:00</lastmod>
   </url>
 </urlset>

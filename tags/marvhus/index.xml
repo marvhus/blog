@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>marvhus on My Blog!</title>
-    <link>http://blog.marvhus.xyz/tags/marvhus/</link>
+    <link>https://marvhus.xyz/blog/tags/marvhus/</link>
     <description>Recent content in marvhus on My Blog!</description>
     <image>
-      <url>http://blog.marvhus.xyz</url>
-      <link>http://blog.marvhus.xyz</link>
+      <url>https://marvhus.xyz/blog</url>
+      <link>https://marvhus.xyz/blog</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 12 Aug 2022 23:56:00 +0200</lastBuildDate><atom:link href="http://blog.marvhus.xyz/tags/marvhus/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Aug 2022 23:56:00 +0200</lastBuildDate><atom:link href="https://marvhus.xyz/blog/tags/marvhus/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Another post</title>
-      <link>http://blog.marvhus.xyz/posts/another-post/</link>
+      <link>https://marvhus.xyz/blog/posts/another-post/</link>
       <pubDate>Fri, 12 Aug 2022 23:56:00 +0200</pubDate>
       
-      <guid>http://blog.marvhus.xyz/posts/another-post/</guid>
+      <guid>https://marvhus.xyz/blog/posts/another-post/</guid>
       <description>Another post</description>
     </item>
     
     <item>
       <title>My 1st post</title>
-      <link>http://blog.marvhus.xyz/posts/first-post/</link>
+      <link>https://marvhus.xyz/blog/posts/first-post/</link>
       <pubDate>Fri, 12 Aug 2022 23:45:00 +0200</pubDate>
       
-      <guid>http://blog.marvhus.xyz/posts/first-post/</guid>
+      <guid>https://marvhus.xyz/blog/posts/first-post/</guid>
       <description>MY FIRST POST</description>
     </item>
     

@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on My Blog!</title>
-    <link>http://blog.marvhus.xyz/categories/</link>
+    <link>https://marvhus.xyz/blog/categories/</link>
     <description>Recent content in Categories on My Blog!</description>
     <image>
-      <url>http://blog.marvhus.xyz</url>
-      <link>http://blog.marvhus.xyz</link>
+      <url>https://marvhus.xyz/blog</url>
+      <link>https://marvhus.xyz/blog</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 29 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://blog.marvhus.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://marvhus.xyz/blog/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>emacs</title>
-      <link>http://blog.marvhus.xyz/categories/emacs/</link>
+      <link>https://marvhus.xyz/blog/categories/emacs/</link>
       <pubDate>Sat, 29 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.marvhus.xyz/categories/emacs/</guid>
+      <guid>https://marvhus.xyz/blog/categories/emacs/</guid>
       <description></description>
     </item>
     
