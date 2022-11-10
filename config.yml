@@ -1,4 +1,4 @@
-baseURL: "https://blog.marvhus.xyz"
+baseURL: "/"
 title: My Blog!
 paginate: 5
 theme: PaperMod
