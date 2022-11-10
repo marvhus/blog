@@ -2,57 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://marvhus.github.io/my-blogg/archives/</loc>
+    <loc>https://blogg.marvhus.xyz/archives/</loc>
   </url><url>
-    <loc>https://marvhus.github.io/my-blogg/posts/hello-org/</loc>
+    <loc>https://blogg.marvhus.xyz/posts/hello-org/</loc>
     <lastmod>2022-10-29T14:27:21+02:00</lastmod>
   </url><url>
-    <loc>https://marvhus.github.io/my-blogg/posts/writing-hugo-blog-in-org/</loc>
+    <loc>https://blogg.marvhus.xyz/posts/writing-hugo-blog-in-org/</loc>
     <lastmod>2022-10-29T14:26:26+02:00</lastmod>
   </url><url>
-    <loc>https://marvhus.github.io/my-blogg/categories/</loc>
+    <loc>https://blogg.marvhus.xyz/categories/</loc>
     <lastmod>2022-10-29T14:27:21+02:00</lastmod>
   </url><url>
-    <loc>https://marvhus.github.io/my-blogg/categories/emacs/</loc>
+    <loc>https://blogg.marvhus.xyz/categories/emacs/</loc>
     <lastmod>2022-10-29T14:27:21+02:00</lastmod>
   </url><url>
-    <loc>https://marvhus.github.io/my-blogg/tags/hugo/</loc>
+    <loc>https://blogg.marvhus.xyz/tags/hugo/</loc>
     <lastmod>2022-10-29T14:27:21+02:00</lastmod>
   </url><url>
-    <loc>https://marvhus.github.io/my-blogg/</loc>
+    <loc>https://blogg.marvhus.xyz/</loc>
     <lastmod>2022-10-29T14:27:21+02:00</lastmod>
   </url><url>
-    <loc>https://marvhus.github.io/my-blogg/tags/org/</loc>
+    <loc>https://blogg.marvhus.xyz/tags/org/</loc>
     <lastmod>2022-10-29T14:27:21+02:00</lastmod>
   </url><url>
-    <loc>https://marvhus.github.io/my-blogg/posts/</loc>
+    <loc>https://blogg.marvhus.xyz/posts/</loc>
     <lastmod>2022-10-29T14:27:21+02:00</lastmod>
   </url><url>
-    <loc>https://marvhus.github.io/my-blogg/tags/</loc>
+    <loc>https://blogg.marvhus.xyz/tags/</loc>
     <lastmod>2022-10-29T14:27:21+02:00</lastmod>
   </url><url>
-    <loc>https://marvhus.github.io/my-blogg/posts/another-post/</loc>
+    <loc>https://blogg.marvhus.xyz/posts/another-post/</loc>
     <lastmod>2022-08-12T23:56:00+02:00</lastmod>
   </url><url>
-    <loc>https://marvhus.github.io/my-blogg/tags/content/</loc>
+    <loc>https://blogg.marvhus.xyz/tags/content/</loc>
     <lastmod>2022-08-12T23:56:00+02:00</lastmod>
   </url><url>
-    <loc>https://marvhus.github.io/my-blogg/tags/en/</loc>
+    <loc>https://blogg.marvhus.xyz/tags/en/</loc>
     <lastmod>2022-08-12T23:56:00+02:00</lastmod>
   </url><url>
-    <loc>https://marvhus.github.io/my-blogg/tags/first/</loc>
+    <loc>https://blogg.marvhus.xyz/tags/first/</loc>
     <lastmod>2022-08-12T23:56:00+02:00</lastmod>
   </url><url>
-    <loc>https://marvhus.github.io/my-blogg/tags/marvhus/</loc>
+    <loc>https://blogg.marvhus.xyz/tags/marvhus/</loc>
     <lastmod>2022-08-12T23:56:00+02:00</lastmod>
   </url><url>
-    <loc>https://marvhus.github.io/my-blogg/tags/post/</loc>
+    <loc>https://blogg.marvhus.xyz/tags/post/</loc>
     <lastmod>2022-08-12T23:56:00+02:00</lastmod>
   </url><url>
-    <loc>https://marvhus.github.io/my-blogg/tags/test/</loc>
+    <loc>https://blogg.marvhus.xyz/tags/test/</loc>
     <lastmod>2022-08-12T23:56:00+02:00</lastmod>
   </url><url>
-    <loc>https://marvhus.github.io/my-blogg/posts/first-post/</loc>
+    <loc>https://blogg.marvhus.xyz/posts/first-post/</loc>
     <lastmod>2022-08-12T23:45:00+02:00</lastmod>
   </url>
 </urlset>
