@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://marvhus.xyz/blog/sitemap.xml
+Sitemap: https://blog.marvhus.xyz/sitemap.xml
