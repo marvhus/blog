@@ -1,4 +1,4 @@
-baseURL: "https://marvhus.github.io/my-blogg"
+baseURL: "https://blogg.marvhus.xyz"
 title: My Blog!
 paginate: 5
 theme: PaperMod
