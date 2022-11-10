@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>content on My Blog!</title>
-    <link>https://blog.marvhus.xyz/tags/content/</link>
+    <link>/tags/content/</link>
     <description>Recent content in content on My Blog!</description>
     <image>
-      <url>https://blog.marvhus.xyz</url>
-      <link>https://blog.marvhus.xyz</link>
+      <url></url>
+      <link></link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 12 Aug 2022 23:56:00 +0200</lastBuildDate><atom:link href="https://blog.marvhus.xyz/tags/content/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Aug 2022 23:56:00 +0200</lastBuildDate><atom:link href="/tags/content/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Another post</title>
-      <link>https://blog.marvhus.xyz/posts/another-post/</link>
+      <link>/posts/another-post/</link>
       <pubDate>Fri, 12 Aug 2022 23:56:00 +0200</pubDate>
       
-      <guid>https://blog.marvhus.xyz/posts/another-post/</guid>
+      <guid>/posts/another-post/</guid>
       <description>Another post</description>
     </item>
     
     <item>
       <title>My 1st post</title>
-      <link>https://blog.marvhus.xyz/posts/first-post/</link>
+      <link>/posts/first-post/</link>
       <pubDate>Fri, 12 Aug 2022 23:45:00 +0200</pubDate>
       
-      <guid>https://blog.marvhus.xyz/posts/first-post/</guid>
+      <guid>/posts/first-post/</guid>
       <description>MY FIRST POST</description>
     </item>
     

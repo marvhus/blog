@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>emacs on My Blog!</title>
-    <link>https://blog.marvhus.xyz/categories/emacs/</link>
+    <link>/categories/emacs/</link>
     <description>Recent content in emacs on My Blog!</description>
     <image>
-      <url>https://blog.marvhus.xyz</url>
-      <link>https://blog.marvhus.xyz</link>
+      <url></url>
+      <link></link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 29 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.marvhus.xyz/categories/emacs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="/categories/emacs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello Org</title>
-      <link>https://blog.marvhus.xyz/posts/hello-org/</link>
+      <link>/posts/hello-org/</link>
       <pubDate>Sat, 29 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.marvhus.xyz/posts/hello-org/</guid>
+      <guid>/posts/hello-org/</guid>
       <description>This was written using org mode Yes you read that correctly, this post was written in orgmode, and generated for use with hugo using ox-hugo.
 ox-hugo it&amp;rsquo;s a plugin for emacs, that exports org files to markdown files usable with hugo. So with the use of this emacs plugin, I might start writing posts here, so keep an eye out for that.
 installing ox-hugo Installing the plugin wasn&amp;rsquo;t as easy as I first thought it would be.</description>
@@ -23,10 +23,10 @@ installing ox-hugo Installing the plugin wasn&amp;rsquo;t as easy as I first tho
     
     <item>
       <title>Writing Hugo blog in Org</title>
-      <link>https://blog.marvhus.xyz/posts/writing-hugo-blog-in-org/</link>
+      <link>/posts/writing-hugo-blog-in-org/</link>
       <pubDate>Sat, 29 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.marvhus.xyz/posts/writing-hugo-blog-in-org/</guid>
+      <guid>/posts/writing-hugo-blog-in-org/</guid>
       <description>First heading withing the post This post will be exported as content/posts/writing-hugo-blog-in-org-file-export.md. Its title will be &amp;ldquo;Writing Hugo blog in Org&amp;rdquo;. It will have hugo and org tags and emacs as category. The lastmod property in the front_matter is set automatically to the time of export. The menu item identified is auto-set. The menu item weight and post weight if needed to have to be menually specified as shown above. A sub heading under that heading It&amp;rsquo;s draft state will be marked as true brcause of #+hugo_draft: true With the point anywhere, do M-x RET ox-hugo RET to export this whole fole titles Writing Hugo blog in Org to a Hugo post.</description>
     </item>
     
