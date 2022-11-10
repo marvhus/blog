@@ -1,4 +1,4 @@
-baseURL: "http://blog.marvhus.xyz"
+baseURL: "https://marvhus.xyz/blog"
 title: My Blog!
 paginate: 5
 theme: PaperMod
@@ -75,8 +75,6 @@ params:
     Content: Welcome to my blog
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/mart_hus"
     - name: github
       url: "https://github.com/marvhus"
 
@@ -86,7 +84,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/marvhus/my-blogg"
+    URL: "https://github.com/marvhus/blog"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
@@ -111,8 +109,8 @@ menu:
       url: /tags/
       weight: 20
     - identifier: example
-      name: marvhus.github.io
-      url: https://marvhus.github.io
+      name: marvhus.xyz
+      url: https://marvhus.xyz
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
